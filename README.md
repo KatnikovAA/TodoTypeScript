@@ -1,1 +1,1 @@
-# TodoTypeScript
+# Site designed for example TodoList on TypeScript
